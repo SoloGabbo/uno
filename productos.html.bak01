@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+
+
+
+<meta charset="utf-8">
+<title>Productos - Trimedicals</title>
+<meta name="description" content="Place to put your description text">
+<meta name="author" content="">
+<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+
+
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/skeleton.css">
+<link rel="stylesheet" href="css/screen.css">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" />
+
+
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+<!-- Google Fonts ==================================================
+================================================== -->
+
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<div id="header">
+  <div class="container header"> 
+ 
+    <header>
+      <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" /></a></div>
+      <div class="mainmenu">
+        <div id="mainmenu">
+          <ul class="sf-menu">
+            <li><a href="index.html" id="visited"><span class="home"></span>Inicio</a></li>
+            <li><a href="productos.html"><span class="home"></span>Productos</a></li>
+            <li><a href="proveedores.html"><span class="home"></span>Proveedores</a>
+              <ul>
+                <li><a href="nuvasive.html">NuVasive </a></li>
+                <li><a href="solco.html">SOLCO Biomedical </a></li>
+                <li><a href="dfine.html">DFine </a></li>
+                <li><a href="cousin.html">Cousin Biotech </a></li>
+              </ul>
+            </li>
+            <li><a href="medico.html"><span class="home"></span>Médicos</a>
+              
+            </li>
+            
+            <li><a href="contacto.html"><span class="home"></span>Contáctanos</a></li>
+          </ul>
+        </div>
+        
+       	
+        
+        <form id="responsive-menu" action="#" method="post">
+          <select>
+            <option value="">Navigation</option>
+            <option value="index.html">Inicio</option>
+            <option value="productos.html">Productos</option>
+            <option value="proveedores.html">Proveedores</option>
+            <option value="nuvasive.html">NuVasive</option>
+            <option value="solco.html">Solco Biomedical</option>
+            <option value="dfine.html">DFine</option>
+            <option value="cousin.html">Cousin Biotech</option>
+            <option value="medicos.html">Médicos</option>
+            
+           
+            <option value="contacto.html">Contáctanos</option>
+          </select>
+        </form>
+      </div>
+    </header>
+  </div>
+</div>
+<!-- Features Content Part ==================================================
+================================================== -->
+<div class="blankSeparator"></div>
+<div class="container resume">
+  <div class="container resume">
+    <h2>Catálogo de productos</h2>
+    <p align="justify">Trimedicals S.A. de C.V. ofrece a sus clientes productos de la más alta calidad e innovación, ya que es distribuidor único de las compañías líderes en el mercado de columna vertebral a nivel mundial, aunado a esto complementa sus productos con un servicio de pre y post venta que lo diferencia de su competencia, brindando al médico y a los pacientes apoyo en los procedimientos quirúrgicos, en la planeación y preparación de los mismos, ya que es una empresa comprometida con sus valores.</p>
+    <div class="one_third">
+      <h3>Productos actuales</h3>
+    </div>
+    <div class="two_third lastcolumn">
+      <p><strong>NuVasive</strong> <br>
+      <ul>
+        <li><a href="xlif.html">&nbsp;->XLIF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Técnica mínima invasiva extremo lateral</a></li>
+        <li><a href="nvm5.html">&nbsp;->NVM5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neuromonitorreo y potenciales evocados</a></li>
+        <li><a href="helix.html">&nbsp;->Helix &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa cervical</a></li>
+        <li><a href="spherx.html">&nbsp;->SpheRx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de fijación mínima invasiva</a></li>
+        <li><a href="coroent.html">&nbsp;->CoRoent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Espaciadores intersomáticos de todo tipo</a></li>
+        <li><a href="maxcess.html">&nbsp;->MaXcess&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de acceso</a></li>
+      </ul>
+      <p><strong>SOLCO Biomedical</strong>
+      <ul>
+        <li><a href="apollon.html">&nbsp;->APOLLON&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de fijación posterior vertebral mínimo invasivo</a></li>
+        <li><a href="solar.html">&nbsp;->SOLAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de fijación vertebral en cirugía abierta</a></li>
+      </ul>
+      <p><strong>DFine</strong><a href="stabilit.html"> </a>
+      <ul>
+        <li><a href="stabilit.html">&nbsp;->StabiliT®&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de Aumento Vertebral </a></li>
+      </ul>
+      <p><strong>CousinBiotech</strong>
+      <ul>
+        <li> <a href="biolig.html">&nbsp;->Biolig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de fijación dinámica</a> </li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h3>PrÓximamente</h3>
+    </div>
+    <div class="two_third lastcolumn">
+      <div class="one_half">
+        <p><strong>NuVasive</strong>
+        <ul>
+          <li><a href="vuepoint.html">&nbsp;->VuePoint&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fijación occipito-cervical</a></li>
+          <li><a href="xcore.html">&nbsp;->X-Core&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Malla expandible para corporectomía mínima invasiva</a></li>
+          <li><a href="leverage.html">&nbsp;->Leverage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mini placas especiales para laminectomía cervical</a></li>
+          <li><a href="interlock.html">&nbsp;->Interlock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Espaciador intersomático cervical con tornillos</a></li>
+          <li><a href="radian.html">&nbsp;->Radian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de tornillos facetarios</a></li>
+          <li><a href="pcm.html">&nbsp;->PCM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;Prótesis de disco cervical</a></li>
+          <li><a href="traverse.html">&nbsp;->Traverse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Placa para fijación lateral</a></li>
+          <li><a href="affix.html">&nbsp;->Affix II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de fijación interespinosa</a></li>
+        </ul>
+        <p><strong>DFine</strong>
+        <ul>
+          <li><a href="star.html">&nbsp;->STAR™ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sistema de Ablación de Tumores </a></li>
+        </ul>
+        <p><strong>SOLCO Biomedical</strong></p>
+        <ul>
+          <li><a href="peek.html">&nbsp;->Espaciadores intersomáticos de PEEK</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="one_third">
+      <h3>Proveedores</h3>
+    </div>
+    <div class="two_third lastcolumn">
+      <div class="one_fourth">
+        <p><a href="nuvasive.html"><img src="images/nuvasive/1.jpg" alt=""/></a></p>
+      </div>
+      <div class="one_fourth">
+        <p><a href="solco.html"><img src="images/solco/1.jpg" alt=""/><br />
+        </a>  
+      </div>
+      <div class="one_fourth">
+        <p><a href="dfine.html"><img src="images/dfine/1.jpg" alt=""/></a></p>
+      </div>
+      <div class="one_fourth lastcolumn">
+        <p><a href="cousin.html"><img src="images/cousin/1.jpg" alt=""/></a></p>
+      </div>
+    </div>
+  </div>
+  <h2>&nbsp;</h2>
+</div>
+<div class="blankSeparator1"></div>
+
+<div id="footer">
+  <div class="container footer">
+    
+    <div class="one_fourth">
+      <h3>Proveedores</h3>
+      <ul>
+        <li class="lines"><a href="nuvasive.html" title="">NuVasive</a></li>
+        <li class="lines"><a href="solco.html" class="">SOLCO Biomedical</a></li>
+        <li class="lines"><a href="dfine.html" class="">DFine</a></li>
+        <li class="lines"><a href="cousin.html" class=""> Cousin Biotech</a></li>
+        
+      
+      </ul>
+    </div>
+    <div class="one_fourth">
+      <h3>Últimas noticias</h3>
+      <ul>
+        <li class="lines"><a href="amcico.html" title="">AMCICO 2013</a></li>
+        <li class="lines"><a href="trabajo.html" class="">Haz una carrera con nosotros</a></li>
+        <li class="lines"><a href="diez.html" class="">10 años Trimedicals</a></li>
+        <li class="lines"></li>
+        
+      
+      </ul>
+    </div>
+    <div class="one_fourth">
+      <h3>Últimos productos</h3>
+      <ul>
+        <li class="lines"><a href="xlif.html" class="">XLIF</a></li>
+        <li class="lines"><a href="nvm5.html" class="">NVM5</a></li>
+        <li class="lines"><a href="helix.html" class="">Helix</a></li>
+        <li class="lines"><a href="spherx.html" class="">SpheRx</a></li>
+        <li class="lines"><a href="coroent.html" class="">CoRoent</a></li>
+      </ul>
+    </div>
+    <div class="one_fourth lastcolumn"> <a href="contacto.html" >
+      <h3>Contáctanos</h3>
+      <p>Tienes alguna duda o consulta acerca de nuestros productos, solo mandanos tus comentarios </p>
+      <p>Visita nuestra zona de contacto</p>
+    </a></div>
+  </div>
+  
+</div>
+
+<div id="copyright">
+  <div class="container">
+    <div class="eleven columns alpha">
+      <p class="copyright">&copy; Copyright 2013 Trimedicals SA de CV. Diseñado por <a href="http://www.grupoalternet.com/">GrupoAlternet</a></p>
+    </div>
+    <div class="five columns omega">
+      <section class="socials">
+        <ul class="socials fr">
+          <li><a href="https://twitter.com/Trimedicals"><img src="images/socials/twitter.png" class="poshytip" title="Twitter"  alt="" /></a></li>
+          <li><a href="https://www.facebook.com/trimedicals.spineimplants"><img src="images/socials/facebook.png" class="poshytip" title="Facebook" alt="" /></a></li>
+        
+        </ul>
+      </section>
+    </div>
+  </div>
+  <!-- container ends here --> 
+</div>
+<!-- copyright ends here --> 
+<!-- End Document
+================================================== --> 
+<!-- Scripts ==================================================
+================================================== --> 
+<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script> 
+<!-- Main js files --> 
+<script src="js/screen.js" type="text/javascript"></script> 
+<!-- Tooltip --> 
+<script src="js/poshytip-1.0/src/jquery.poshytip.min.js" type="text/javascript"></script> 
+<!-- Tabs --> 
+<script src="js/tabs.js" type="text/javascript"></script> 
+<!-- Tweets --> 
+<script src="js/jquery.tweetable.js" type="text/javascript"></script> 
+<!-- Include prettyPhoto --> 
+<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script> 
+<!-- Include Superfish --> 
+<script src="js/superfish.js" type="text/javascript"></script> 
+<script src="js/hoverIntent.js" type="text/javascript"></script> 
+<!-- Flexslider --> 
+<script src="js/jquery.flexslider-min.js" type="text/javascript"></script> 
+<script type="text/javascript" src="js/modernizr.custom.29473.js"></script>
+</body>
+</html>

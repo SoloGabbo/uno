@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+
+<!-- Basic Page Needs ================================================== 
+================================================== -->
+
+<meta charset="utf-8">
+<title>Trimedicals - SpineImplants</title>
+<meta name="description" content="Place to put your description text">
+<meta name="author" content="">
+<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!-- Mobile Specific Metas ================================================== 
+================================================== -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+<!-- CSS ==================================================
+================================================== -->
+
+<link rel="stylesheet" href="css/base.css">
+<link rel="stylesheet" href="css/skeleton.css">
+<link rel="stylesheet" href="css/screen.css">
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" />
+
+<!-- Favicons ==================================================
+================================================== -->
+
+<link rel="shortcut icon" href="images/favicon.png">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+<!-- Google Fonts ==================================================
+================================================== -->
+
+<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<body>
+
+<!-- Home - Content Part ==================================================
+================================================== -->
+<div id="header">
+  <div class="container header"> 
+    <!-- Header | Logo, Menu
+		================================================== -->
+    <header>
+      <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" /></a></div>
+      <div class="mainmenu">
+        <div id="mainmenu">
+          <ul class="sf-menu">
+            <li><a href="index.html" id="visited"><span class="home"></span>Inicio</a></li>
+            <li><a href="productos.html"><span class="home"></span>Productos</a></li>
+            <li><a href="proveedores.html"><span class="home"></span>Proveedores</a>
+              <ul>
+                <li><a href="nuvasive.html">Nuvasive </a></li>
+                <li><a href="solco.html">Solco Biomedical </a></li>
+                <li><a href="dfine.html">DFine </a></li>
+                <li><a href="cousin.html">Cousin Biotech </a></li>
+              </ul>
+            </li>
+            <li><a href="medico.html"><span class="home"></span>Médicos</a>
+              
+            </li>
+            
+            <li><a href="contacto.html"><span class="home"></span>Contáctanos</a></li>
+          </ul>
+        </div>
+        
+        <!-- Responsive Menu -->
+        
+        <form id="responsive-menu" action="#" method="post">
+          <select>
+            <option value="">Navigation</option>
+            <option value="index.html">Inicio</option>
+            <option value="productos.html">Productos</option>
+            <option value="proveedores.html">Proveedores</option>
+            <option value="nuvasive.html">NuVasive</option>
+            <option value="solco.html">Solco Biomedical</option>
+            <option value="dfine.html">DFine</option>
+            <option value="cousin.html">Cousin Biotech</option>
+            <option value="medicos.html">Médicos</option>
+            
+           
+            <option value="contacto.html">Contáctanos</option>
+          </select>
+        </form>
+      </div>
+    
+
+
+
+</header>
+  </div>
+</div>
+<!-- Home Content Part - Slider ==================================================
+================================================== -->
+
+
+
+
+
+
+
+
+<div class="flexslider">
+  <ul class="slides">
+    <li> <a href="#"><img src="images/flexslider/3.jpg" alt=""/></a> </li>
+    <li> <a href="#"><img src="images/flexslider/4.jpg" alt="" /></a>
+      
+    </li>
+  </ul>
+</div>
+<!-- Home Content Part - Box One ==================================================
+================================================== -->
+<div class="blankSeparator"></div>
+<div class="container">
+  <div class="info">
+    <div class="one_third">
+      <h2>Historia</h2>
+      <p align="justify">
+Trimedicals S.A. de C.V. inicia operaciones en julio de 2003, surge con el objetivo de brindar a la sociedad mexicana un medio para atender las necesidades médicas en el ramo de columna vertebral. Con el fin de cumplir con este objetivo la empresa tiene la distribución exclusiva de las marcas NuVasive, DFine, Cousin Biotechw y SOLCO Biomedical.</p>
+      <a href="" title="" class="buttonhome"></a> </div>
+    <div class="two_third lastcolumn">
+      <div class="one_half">
+        <h2>Nuestra misión</h2>
+        <p align="justify">Nuestra misión es contribuir a mejorar la salud de los pacientes con padecimientos de columna vertebral y coadyuvar en la gestión profesional de los médicos, ofreciéndoles productos de alta tecnología y servicios de excelente calidad.
+
+</p>
+        <a href="" title="" class="buttonhome"></a> </div>
+      <div class="one_half lastcolumn">
+        <h2>Nuestra visión</h2>
+        <p align="justify">Nuestra visión es ser una empresa con presencia nacional y amplio portafolio de productos y servicios para cirugía de columna vertebral.</p>
+                <a href="" title="" class="buttonhome"></div>
+    </div>
+  </div>
+</div>
+<!-- container ends here --> 
+<!-- Home Content Part - Box Two ==================================================
+================================================== -->
+<div class="container clients">
+  <div class="sepContainer"></div>
+  <h2>Ultimas fotos</h2>
+  <div class="one_sixth"> <a href="gallery.html"><img src="images/client1.jpg" alt="gallery.html"/> </a></div>
+  <!-- end one_sixth -->
+  <div class="one_sixth"> <a href="gallery.html"><img src="images/client2.jpg" alt=""/> </a></div>
+  <!-- end one_sixth -->
+  <div class="one_sixth"> <a href="gallery.html"><img src="images/client3.jpg" alt=""/> </a></div>
+  <!-- end one_sixth -->
+  <div class="one_sixth"> <a href="gallery.html"><img src="images/client4.jpg" alt=""/> </a></div>
+  <!-- end one_sixth -->
+  <div class="one_sixth"> <a href="gallery.html"><img src="images/client5.jpg" alt=""/> </a></div>
+  <!-- end one_sixth -->
+  <div class="one_sixth lastcolumn"><a href="gallery.html"> <img src="images/client6.jpg" alt=""/></a> </div>
+  <!-- end one_sixth lastCol --> 
+</div>
+<!-- end container --> 
+<!-- Home Content Part - Box Three ==================================================
+================================================== -->
+<div class="container boxthree">
+  <div class="sepContainer1"><!-- --></div>
+  <div class="blankSeparator"></div>
+  <div class="one_third">
+    <section class="boxthreeleft"> <img src="images/home/1.png" alt=""/>
+      <h3>Cumplimos 10 años</h3>
+      <p align="justify">¡Estamos cumpliendo 10 años en el mercado, entérate y celebra con nosotros!</p>
+      <a class ="simple" href="#">+ Leer más</a> </section>
+  </div>
+  <!-- one-third column ends here -->
+  <div class="one_third">
+    <section class="boxthreecenter"> <img src="images/home/2.png" alt=""/>
+      <h3>Congreso - Merida</h3>
+      <p align="justify">Trimedicals - SpineImplants participara este 22 de junio en el congreso xx en Merida</p>
+      <a class ="simple" href="#">+ Leer más</a> </section>
+  </div>
+  <!-- one-third column ends here -->
+  <div class="one_third lastcolumn">
+    <section class="boxthreeright"> <img src="images/home/3.png" alt=""/>
+      <h3>Buscas oportunidad laboral?</h3>
+      <p>Trimedicals es el lugar perfecto para ti mandanos tu curriculum.</p>
+      <a class ="simple" href="#">+ Leer más</a> </section>
+  </div>
+  <!-- one-third column ends here --> 
+</div>
+<!-- container ends here -->
+<div class="blankSeparator1"></div>
+
+<!--Footer ==================================================
+================================================== -->
+<div id="footer">
+  <div class="container footer">
+    
+    <div class="one_fourth">
+      <h3>Proveedores</h3>
+      <ul>
+        <li class="lines"><a href="nuvasive.html" title="">NuVasive</a></li>
+        <li class="lines"><a href="solco.html" class="">Solco Biomedical</a></li>
+        <li class="lines"><a href="dfine.html" class="">DFine</a></li>
+        <li class="lines"><a href="cousin.html" class=""> Cousin Biotech</a></li>
+        
+      
+      </ul>
+    </div>
+    <div class="one_fourth">
+      <h3>Ultimos productos</h3>
+      <ul>
+        <li class="lines"><a href="xlif.html" class="">XLIF</a></li>
+        <li class="lines"><a href="nvm5.html" class="">NVM5</a></li>
+        <li class="lines"><a href="helix.html" class="">Helix</a></li>
+        <li class="lines"><a href="spherx.html" class="">SpheRx</a></li>
+        <li class="lines"><a href="coroent.html" class="">CoRoent</a></li>
+      </ul>
+    </div>
+    <div class="one_fourth lastcolumn">
+      <h3>Contáctanos</h3>
+      <p>Tienes alguna duda o consulta acerca de nuestros productos, solo mandanos tus comentarios </p>
+      <p>Visita <a href="contact.html" >Nuestra zona de contacto</a> </p>
+    </div>
+  </div>
+  <!-- container ends here --> 
+</div>
+<!-- footer ends here --> 
+<!-- Copyright ==================================================
+================================================== -->
+<div id="copyright">
+  <div class="container">
+    <div class="eleven columns alpha">
+      <p class="copyright">&copy; Copyright 2013 Trimedicals SA de CV. Diseñado por <a href="http://www.grupoalternet.com/">GrupoAlternet</a></p>
+    </div>
+    <div class="five columns omega">
+      <section class="socials">
+        <ul class="socials fr">
+          <li><a href="https://twitter.com/Trimedicals"><img src="images/socials/twitter.png" class="poshytip" title="Twitter"  alt="" /></a></li>
+          <li><a href="https://www.facebook.com/trimedicals.spineimplants"><img src="images/socials/facebook.png" class="poshytip" title="Facebook" alt="" /></a></li>
+        
+        </ul>
+      </section>
+    </div>
+  </div>
+  <!-- container ends here --> 
+</div>
+<!-- copyright ends here --> 
+<!-- End Document
+================================================== --> 
+<!-- Scripts ==================================================
+================================================== --> 
+<script src="js/jquery-1.8.0.min.js" type="text/javascript"></script> 
+<!-- Main js files --> 
+<script src="js/screen.js" type="text/javascript"></script> 
+<!-- Tooltip --> 
+<script src="js/poshytip-1.0/src/jquery.poshytip.min.js" type="text/javascript"></script> 
+<!-- Tabs --> 
+<script src="js/tabs.js" type="text/javascript"></script> 
+<!-- Tweets --> 
+<script src="js/jquery.tweetable.js" type="text/javascript"></script> 
+<!-- Include prettyPhoto --> 
+<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script> 
+<!-- Include Superfish --> 
+<script src="js/superfish.js" type="text/javascript"></script> 
+<script src="js/hoverIntent.js" type="text/javascript"></script> 
+<!-- Flexslider --> 
+<script src="js/jquery.flexslider-min.js" type="text/javascript"></script> 
+<script type="text/javascript" src="js/modernizr.custom.29473.js"></script>
+</head>
+</body>
+</html>
